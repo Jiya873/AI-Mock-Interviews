@@ -1,4 +1,4 @@
-<h1 align="center">Prepwise <h3>A job interview preparation platform powered by Vapi AI Voice agents</h3></h1>
+<h1 align="center">Prepwise <h3 align="center">A job interview preparation platform powered by Vapi AI Voice agents</h3></h1>
 
 ## <a name="introduction">🤖 Introduction</a>
 
