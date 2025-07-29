@@ -62,14 +62,14 @@ FIREBASE_CLIENT_EMAIL=
 FIREBASE_PRIVATE_KEY=
 ```
 
-Replace the placeholder values with your actual **[Firebase](https://firebase.google.com/)**, **[Vapi](https://vapi.ai/?utm_source=youtube&utm_medium=video&utm_campaign=jsmastery_recruitingpractice&utm_content=paid_partner&utm_term=recruitingpractice)** credentials.
+Replace the placeholder values with actual **Firebase**, **Vapi** credentials.
 
 **Running the Project**
 
 ```bash
 npm run dev
 ```
-
+<!---
 <details>
 <summary><code>Generate questions prompt (/app/api/vapi/generate/route.tsx):</code></summary>
 
@@ -149,3 +149,4 @@ export const dummyInterviews: Interview[] = [
 [//]: <> (## <a name="links">🔗 Assets</a>)
 
 [//]: <> (Public assets used in the project can be found [here](https://drive.google.com/drive/folders/1DuQ9bHH3D3ZAN_CFKfBgsaB8DEhEdnog?usp=sharing))
+-->
